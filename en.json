@@ -4,5 +4,13 @@
     "greeting": "hi guy, nice to meet you",
     "askName": "what's your name",
     "bye": "bye bye"
+  },
+  "b1": {
+    "test": "test",
+    "b1": "branch 1"
+  },
+  "b2": {
+    "test2": "test on",
+    "b2": "branch 2"
   }
 }

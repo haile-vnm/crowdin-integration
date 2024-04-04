@@ -4,5 +4,13 @@
     "greeting": "hi guy, nice to meet you",
     "askName": "ما الاسم الخاص بك",
     "bye": "bye bye"
+  },
+  "b1": {
+    "test": "اختبار",
+    "b1": "الفرع 1"
+  },
+  "b2": {
+    "test2": "اختبار على",
+    "b2": "الفرع 2"
   }
 }
