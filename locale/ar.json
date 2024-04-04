@@ -2,6 +2,7 @@
   "hello": "مرحبا",
   "message": {
     "greeting": "hi guy, nice to meet you",
+    "askName": "ما الاسم الخاص بك",
     "bye": "bye bye"
   }
 }
