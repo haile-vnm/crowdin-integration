@@ -12,5 +12,6 @@
   "b2": {
     "test2": "test on",
     "b2": "branch 2"
-  }
+  },
+  "b3": "branch 3"
 }
