@@ -15,8 +15,10 @@
   },
   "b3": "branch 3",
   "b4": "branch 4",
-  "b44": "b44 content",
-  "b4444": "more b4444 content",
+  "b44": "b44 content dddd",
+  "b44-new": "this is b44 new content",
+  "b4444-modified": "more b4444 modified",
   "b5": "branch 5 new content",
-  "b6-modify": "new b6 content"
+  "b5-new": "added b5",
+  "b6-modify-second": "b6 modified second"
 }
